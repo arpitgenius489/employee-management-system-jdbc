@@ -1,4 +1,3 @@
-# Ignore all files in out/ except application.properties
 /out/*
 *.class
 
