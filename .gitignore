@@ -1,6 +1,5 @@
 # Ignore all files in out/ except application.properties
 /out/*
-!/out/application.properties
 *.class
 
 # Logs
